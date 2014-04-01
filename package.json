@@ -9,6 +9,6 @@
   "author": "swsandbox",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "q": "^1.0.1"
+      "restify":"*"
   }
 }
